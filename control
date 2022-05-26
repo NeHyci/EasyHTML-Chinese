@@ -1,0 +1,9 @@
+Package: nehyci.easyhtmlchinese
+Name: EasyHTMLChinese
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: EasyHTML 部分汉化 theos学习交流群770375541
+Maintainer: nehyci
+Author: nehyci
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
